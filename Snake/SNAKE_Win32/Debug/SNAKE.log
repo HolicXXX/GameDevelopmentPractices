@@ -1,0 +1,4 @@
+﻿  SNAKE.cpp
+e:\programs\win32projects\snake\snake.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+e:\programs\win32projects\snake\snake.cpp(40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  SNAKE.vcxproj -> E:\Programs\Win32Projects\Debug\SNAKE.exe
