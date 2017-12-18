@@ -14,4 +14,5 @@
 > * [拼图](https://github.com/HolicXXX/GameDevelopmentPractices/tree/master/%E6%8B%BC%E5%9B%BE)
 > * [2048](https://github.com/HolicXXX/GameDevelopmentPractices/tree/master/2048)
 > * [ThunderJBolt](https://github.com/HolicXXX/GameDevelopmentPractices/tree/master/ThunderJBolt)
-
+> * [FruitSquad](https://github.com/HolicXXX/FruitSquad)
+> * [ScreamBird](https://github.com/HolicXXX/ScreamBird)
